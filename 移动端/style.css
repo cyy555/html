@@ -1,0 +1,155 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #f5f5f5;
+}
+.head{
+	background-color: #91D4DA;
+	width: 100%;height: 80px;
+	display: flex;
+}
+.back{
+	margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20px;
+    color: #fff;
+    font-size: 30px;
+    text-decoration: none;
+
+}
+.title{
+	margin: auto;
+	font-size: 40px;
+	color: #fff;
+
+}
+.nav{
+	display: flex;
+	justify-content: space-around;
+	height: 50px;
+	background-color: #ffffff;
+	padding-top:20px; 
+}
+.tg{
+	background-color: #fff;
+}
+.tag{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 250px;width: 900px;
+    border-bottom: 2px solid #c6c6c6;
+    padding: 20px;
+    margin-left: 20px
+}
+.tag p{
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.fl{
+	background-color: #fff;
+	margin-bottom: 20px;
+}
+.fenlan{
+	display: flex;
+	justify-content: space-around;
+	padding: 20px;
+}
+.border{
+	border-right: 1px solid #c6c6c6;
+	width: 33.333%;
+	text-align: center;
+}
+.image{
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+.font1{
+	font-size: 32px;
+	font-family: "黑体";
+}
+.font2{
+    font-size: 22px;
+    font-family: "微软雅黑";
+}
+.border:nth-of-type(3){
+	border: none;
+}
+.mk{
+	background-color: #fff;
+	margin-bottom: 20px;
+}
+.mk-a{
+    border-bottom: 5px solid #c6c6c6;
+}
+.article{
+	display: flex;
+	margin: 20px;
+}
+.article1{
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.art1{
+	
+	background-color:#f5f5f5 ;
+	width: 320px;
+    height: 80px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 70px;
+}
+.mokuai{
+	border-bottom: 1px solid #c6c6c6;
+    width: 940px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    font-size: 32px;
+}
+.word{
+	height: 240px;background-color: #fff;
+	display: flex;    
+	border-bottom: 5px solid #c6c6c6;
+}
+.word-img{
+	margin:20px;
+}
+.word-article{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.word2{
+	height: 370px;
+    background: #fff;
+}
+.word-a{
+	padding: 20px;
+}
+.word2-img{
+	display: flex;
+    justify-content: space-between;
+}
+.word2 img{
+	width: 310px;
+}
+.word-ziti{
+	font-size: 40px;
+	font-family: "微软雅黑";
+	margin-bottom: 20px
+}
+.word-duiqi{
+	margin-top: 100px;
+	font-size: 30px;
+	color:#c6c6c6;
+}
+.word2-ziti{
+	font-size: 30px;
+	color:#c6c6c6;
+	margin-top: 20px;
+
+}
